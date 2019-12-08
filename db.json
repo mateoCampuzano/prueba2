@@ -1,1 +1,31 @@
-
+ {
+   [ 
+   {
+    "idDepartamento" : "1",
+   "nombreDepartamento" : "Antioquia",
+   "municipios" : [
+   {"idMunicipio" : "1", "nombreMunicipio" : "Medellin"},
+   {"idMunicipio" : "2", "nombreMunicipio" : "Envigado"},
+   {"idMunicipio" : "3", "nombreMunicipio" : "Itagui"}
+                  ]
+   },
+   {
+   "idDepartamento" : "2",
+   "nombreDepartamento" : "Quindio",
+   "municipios" : [
+   {"idMunicipio" : "1", "nombreMunicipio" : "Armenia"},
+   {"idMunicipio" : "2", "nombreMunicipio" : "Salento"},
+   {"idMunicipio" : "3", "nombreMunicipio" : "Quimbaya"}
+                  ]
+   },
+   {
+   "idDepartamento" : "3",
+   "nombreDepartamento" : "Tolima",
+   "municipios" : [
+   {"idMunicipio" : "1", "nombreMunicipio" : "Ibague"},
+   {"idMunicipio" : "2", "nombreMunicipio" : "Alpujarra"},
+   {"idMunicipio" : "3", "nombreMunicipio" : "Alvarado"}
+                  ]
+   }
+   ]  
+}
