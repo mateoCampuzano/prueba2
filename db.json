@@ -1,5 +1,4 @@
- {
-  "departamentos" : [ 
+[
    {
    "idDepartamento" : 1,
    "nombreDepartamento" : "Antioquia",
@@ -18,7 +17,7 @@
    {"idMunicipio" : 3, "nombreMunicipio" : "Quimbaya"}
                   ]
    },
-   {
+    {
    "idDepartamento" : 3,
    "nombreDepartamento" : "Tolima",
    "municipios" : [
@@ -27,5 +26,4 @@
    {"idMunicipio" : 3, "nombreMunicipio" : "Alvarado"}
                   ]
    }
-   ]
-}
+]
